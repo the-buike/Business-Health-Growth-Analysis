@@ -1,0 +1,13 @@
+warehouse_id,warehouse_name,region_id
+W001,Warehouse 1,R001
+W002,Warehouse 1,R002
+W003,Warehouse 1,R003
+W004,Warehouse 1,R004
+W005,Warehouse 2,R001
+W006,Warehouse 2,R002
+W007,Warehouse 2,R003
+W008,Warehouse 2,R004
+W009,Warehouse 3,R001
+W010,Warehouse 3,R002
+W011,Warehouse 3,R003
+W012,Warehouse 3,R004
